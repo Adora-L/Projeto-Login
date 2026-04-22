@@ -51,4 +51,8 @@
     div#formulary > p {
     font-size: 1.2em;
 }
+
+    span#remember {
+        color: white;
+    }
 }
